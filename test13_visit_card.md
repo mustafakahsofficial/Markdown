@@ -92,3 +92,72 @@
 }  
 </style>
 
+
+
+# deneme 3
+<div class="visit-counter2 card2">
+    <img src="https://visitcount.itsvg.in/api?id=mustafakahsofficial&icon=2&color=5" alt="Visit Count">
+    
+</div>
+
+<style>
+    .visit-counter2 {
+            padding: 10px 3px;
+        }
+.visit-counter2 img {
+            margin: 3px 10px;
+            border-radius: 20px; /* İkonu daire yap */
+            width: 100%; /* İkon boyutu */
+            height: 100%;
+        }
+.card2 {
+  width: 300px;
+  height: 100px;
+  background-color: #4158D0;
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+  border-radius: 8px;
+  color: white;
+  overflow: hidden;
+  position: relative;
+  transform-style: preserve-3d;
+  perspective: 1000px;
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.320, 1);
+  cursor: pointer;
+}
+.card2:hover {
+  transform: rotateY(10deg) rotateX(10deg) scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card2:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.1));
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.320, 1);
+  z-index: 1;
+}
+
+.card2:hover:before {
+  transform: translateX(-100%);
+}
+
+.card2:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.1));
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.320, 1);
+  z-index: 1;
+}
+
+.card2:hover:after {
+  transform: translateX(100%);
+}
+</style>
