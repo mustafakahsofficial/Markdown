@@ -1,5 +1,5 @@
 <ul class="example-2 ">
-            <li class="icon-content">
+    <li class="icon-content">
                 <a 
                     href="https://x.com/home"
                     aria-label="Twitter"
@@ -19,12 +19,8 @@
                     d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"
                     fill="currentColor"
                     ></path>
-                    </svg></a>
-<div class="tooltip">Twitter</div>
-                    </li>
-        <!--   ----------------------------------------------------  -->
-
-<li class="icon-content">
+            </svg></a><div class="tooltip">Twitter</div></li>
+    <li class="icon-content">
             <a
               href="https://linkedin.com/"
               aria-label="LinkedIn"
@@ -46,11 +42,8 @@
                 ></path>
               </svg>
             </a>
-            <div class="tooltip">LinkedIn</div>
-          </li>
-        <!--   ----------------------------------------------------  -->
-
-<li class="icon-content">
+            <div class="tooltip">LinkedIn</div></li>
+    <li class="icon-content">
             <a href="https://www.github.com/" aria-label="GitHub" data-social="github">
               <div class="filled"></div>
               <svg
@@ -68,9 +61,8 @@
                 ></path>
               </svg>
             </a>
-            <div class="tooltip">GitHub</div>
-          </li>
-          <li class="icon-content">
+            <div class="tooltip">GitHub</div></li>
+    <li class="icon-content">
             <a
               href="https://www.instagram.com/"
               aria-label="Instagram"
@@ -92,9 +84,8 @@
                 ></path>
               </svg>
             </a>
-            <div class="tooltip">Instagram</div>
-          </li>
-          <li class="icon-content">
+            <div class="tooltip">Instagram</div></li>
+    <li class="icon-content">
             <a href="https://youtube.com/" aria-label="Youtube" data-social="youtube">
               <div class="filled"></div>
               <svg
@@ -112,10 +103,8 @@
                 ></path>
               </svg>
             </a>
-            <div class="tooltip">Youtube</div>
-          </li>
+            <div class="tooltip">Youtube</div></li>
         </ul>
-
 
 
 <style>
