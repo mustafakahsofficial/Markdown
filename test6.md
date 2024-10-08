@@ -4,6 +4,7 @@
     <tr>
         <td valign="top" width="50%">
         <p>Birinci sütun içeriği buraya gelecek.</p>
+
 🌍  I'm based in Konya<br>🔭 I’m currently working on C# , Unity and UE5 game dev.<br>🌱 I’m currently learning C# coding.<br>💬 Ask me about<br>🖥️ Check My YouTube Channel<br>✉️  You can contact me at mustafakahsofficial@gmail.com<br>🧠  I'm learning FrontEnd, Website design, JS, PHP , C# <br>🤝  I'm open to collaborating on Other website projects!
 </td>
         <td valign="top" width="50%">
@@ -17,6 +18,11 @@
         <h3 class="galaxy-text">MUSTAFAKAHS</h3>
         <p class="galaxy-text">JR DEVELOPER</p>
     </div>
+</div>
+
+<div class="visit">
+
+[![](https://visitcount.itsvg.in/api?id=mustafakahsofficial&icon=2&color=5)](https://visitcount.itsvg.in)
 </div>
 
 <style>
@@ -75,9 +81,6 @@ transition: 0.3s;
 
 
 </style>
-
-
-
 
 </td>
  </tr></table>
@@ -426,4 +429,28 @@ transition: 0.3s;
   }
     </style>
 
+# 📊 GitHub Stats:
 
+<table style="width: 100%;">
+    <tr>
+        <td valign="top" width="50%">
+        <p>Birinci sütun içeriği buraya gelecek.</p>
+
+![](https://github-readme-stats.vercel.app/api?username=mustafakahsofficial&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+</td>
+        <td valign="top" width="50%">
+            <!-- İkinci sütun içeriği -->
+            <p>İkinci sütun içeriği buraya gelecek.</p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mustafakahsofficial&theme=radical&hide_border=true)
+</td>
+<td valign="top" width="50%">
+            <!-- İkinci sütun içeriği -->
+            <p>üçüncü sütun içeriği buraya gelecek.</p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakahsofficial&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</td>
+
+
+ </tr></table>
