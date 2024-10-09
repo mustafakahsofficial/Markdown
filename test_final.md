@@ -7,7 +7,7 @@
 🌍  I'm based in Konya<br>🔭 I’m currently working on C# , Unity and UE5 game dev.<br>🌱 I’m currently learning C# coding.<br>💬 Ask me about<br>🖥️ Check My YouTube Channel<br>✉️  You can contact me at mustafakahsofficial@gmail.com<br>🧠  I'm learning FrontEnd, Website design, JS, PHP , C# <br>🤝  I'm open to collaborating on Other website projects!
 
 <div>
-    <img src="https://mustafakahsofficial.github.io/pomodoro2/">
+    <img src="https://mustafakahsofficial.github.io/pomodoro2/" width="100%" height="120" >
 </div>
 
 </td>
