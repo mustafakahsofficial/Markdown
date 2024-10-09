@@ -19,7 +19,7 @@
 </div>
 
 <div class="visit-counter1">
-    <img src="https://visitcount.itsvg.in/api?id=mustafakahsofficial&icon=2&color=5" alt="Visit Count">
+    <img src="https://visitcount.itsvg.in/api?id=mustafakahsofficial&icon=2&color=5" width="300" height="120" alt="Visit Count">
     
 </div>
 
