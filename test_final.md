@@ -10,7 +10,7 @@
             <!-- İkinci sütun içeriği -->
 <div class="card">
     <div class="profile-pic">
-        <img src="https://i.pinimg.com/564x/ff/e7/b0/ffe7b059b323e66ba56f892cb8f7bc50.jpg" alt="Profil Resmi">
+        <img src="https://i.pinimg.com/564x/ff/e7/b0/ffe7b059b323e66ba56f892cb8f7bc50.jpg" width="300" height="120" alt="Profil Resmi">
     </div>
     <div class="info">
         <h3 class="galaxy-text">MUSTAFAKAHS</h3>
